@@ -16,3 +16,4 @@ My three favorite classes from college were:
 
 ## Academic Journey Map
 https://tjackson20.github.io/DSEintro/academic_journey_map.html
+**Note:** The coordinates used for Lane College are approximate and represent the downtown Jackson, Tennessee area rather than the exact location of the Lane College campus.
