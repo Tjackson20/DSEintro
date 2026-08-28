@@ -13,3 +13,6 @@ My three favorite classes from college were:
 - Senior Project
 - Digital Forensics
 - Poetry
+
+## Academic Journey Map
+https://tjackson20.github.io/DSEintro/academic_journey_map.html
